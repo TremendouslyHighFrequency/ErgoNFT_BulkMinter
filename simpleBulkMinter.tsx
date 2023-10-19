@@ -9,15 +9,15 @@ const nft_data = [
         "NFT Name/Title": "Bulk NFT Mushroom #1",
         "Description": "This is a bulk minted NFT with audio pairing.",
         "Number to mint": 1,
-        "IPFS CID Audio": "ipfs://bafybeibozolkzncsjcehbf6uvki33ehfynn3g3ysvdke5vw5d7257kc7fy",
-        "IPFS CID Image": "ipfs://bafybeie2tb3hkdlwshdfj2vvbkwkod7qjpn77w2ywich4kqqgj6uujqg2u"
+        "IPFS CID Audio": "",
+        "IPFS CID Image": ""
     },
     {
         "NFT Name/Title": "Bulk NFT Mushroom #2",
         "Description": "This is a bulk minted NFT with audio pairing.",
         "Number to mint": 1,
-        "IPFS CID Audio": "ipfs://bafybeibozolkzncsjcehbf6uvki33ehfynn3g3ysvdke5vw5d7257kc7fy",
-        "IPFS CID Image": "ipfs://bafybeie2tb3hkdlwshdfj2vvbkwkod7qjpn77w2ywich4kqqgj6uujqg2u"
+        "IPFS CID Audio": "",
+        "IPFS CID Image": ""
     }
   ]
 
